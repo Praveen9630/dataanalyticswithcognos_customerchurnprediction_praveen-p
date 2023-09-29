@@ -1,0 +1,2 @@
+# dataanalyticswithcognos_customerchurnprediction_praveen-p
+IBM NAANMUDHULUVAN
